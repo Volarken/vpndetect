@@ -3,6 +3,7 @@
 
 Current Version: RELEASE 1.0
 
+Install with following command: 
 
 wget http://bit.do/0vpndetect -O vpn-detect.sh && bash vpn-detect.sh
 =====================================================================
