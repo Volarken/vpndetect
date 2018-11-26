@@ -2,6 +2,7 @@
 ##VPN Detect, by RootPrivacy.com##
 
 Current Version: RELEASE 1.0
+
 ===================
 
 wget http://bit.do/0vpndetect -O vpn-detect.sh && bash vpn-detect.sh
