@@ -1,6 +1,8 @@
 # vpndetect
 ##VPN Detect, by RootPrivacy.com##
 
+Script built for Linux - Windows version comming soon.
+
 Can be installed with this command: wget http://bit.do/0vpndetect -O vpn-detect.sh && bash vpn-detect.sh
 
 Simple Linux Bash script that will detect if connection to VPN has been lost.
