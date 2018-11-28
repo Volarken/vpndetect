@@ -9,6 +9,7 @@ wget http://bit.do/0vpndetect -O vpn-detect.sh && bash vpn-detect.sh
 =====================================================================
 
 Script built for Linux - Windows version can be found here:
+
 https://github.com/Berowulf/Windows-VPNDetect/blob/master/vpn-detect.cmd
 
 Simple Linux Bash script that will detect if connection to VPN has been lost.
